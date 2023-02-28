@@ -106,4 +106,6 @@ if (language === "English") {
     console.log("Good Morning");
 } else if (language === "Deutsch") {
     console.log("Guten Morgen");
+} else {
+    console.log("Selamat Pagi");
 }
